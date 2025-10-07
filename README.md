@@ -1,2 +1,79 @@
-# xiaowen.github.io
-xiaowen
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PUBG Mobile 专业护航服务</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Arial', sans-serif; }
+        body { background-color: #1a1a2e; color: #fff; line-height: 1.6; padding: 20px; }
+        .container { max-width: 800px; margin: 0 auto; background: #16213e; border-radius: 12px; padding: 30px; box-shadow: 0 0 20px rgba(0,0,0,0.3); }
+        h1 { color: #00ffcc; text-align: center; margin-bottom: 20px; border-bottom: 2px solid #00ffcc; padding-bottom: 10px; }
+        .intro { margin: 25px 0; font-size: 18px; }
+        .intro strong { color: #00ffcc; }
+        .pricing { margin: 30px 0; }
+        .pricing h2 { color: #00ffcc; margin-bottom: 15px; }
+        .price-card { background: #0f3460; border-radius: 8px; padding: 15px; margin-bottom: 15px; }
+        .price-card h3 { color: #ffd700; margin-bottom: 10px; }
+        .business-scope { margin: 30px 0; }
+        .business-scope h2 { color: #00ffcc; margin-bottom: 15px; }
+        .recommend { margin: 30px 0; padding: 20px; background: #e94560; border-radius: 8px; }
+        .recommend h2 { color: #fff; margin-bottom: 10px; text-align: center; }
+        .contact { margin: 30px 0; text-align: center; }
+        .contact h2 { color: #00ffcc; margin-bottom: 15px; }
+        .contact p { font-size: 20px; font-weight: bold; color: #ffd700; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>PUBG Mobile 金牌护航服务</h1>
+        
+        <div class="intro">
+            玩《PUBG Mobile》时，你是否也遇到过这些烦恼？落地刚枪就成盒，辛苦搜集的三级套、满配M4瞬间归零；跑图过麦田被伏地魔阴掉，眼看决赛圈就差最后一公里却遗憾离场；赛季冲分卡在皇冠→王牌的关键段，队友要么跳野区苟分、要么落地成盒，对手全是锁头怪，想上战神却一次次掉分？别担心，我们的<span strong>PUBG Mobile 专属护航服务</span>，就是为解决你的游戏痛点而来！
+            
+            我们的护航团队，全是<span strong>赛季战神ban俱乐部核心成员</span>，平均游戏时长超5000小时，不是那种临时练手的“伪高玩”——对海岛图P城的窗户、沙漠图皮卡多的阳台、雨林图自闭城的楼梯，每个伏地魔常蹲的“老阴批点位”都门清；跑图时哪条路线能绕开劝架、哪片野区能快速搜完肥起来，规划得比导航还准。而且我们从来不用皮肤号，全程用<span strong>游客账户</span>，即登即跑，不占你设备、不泄露你账号信息，安全又省心。
+            
+            不管你是想稳：护航员全程贴脸架枪，语音实时报点“左前方200米树后有人，架住！”“前面房区有脚步，我先冲你架枪补枪”，帮你苟进决赛圈拿排名分；还是想刚：他们会带你跳热门资源点，提前拉枪线、封烟补枪，让你轻松收人头，KDA涨不停；甚至你想练技术：护航员还能边打边教，“打移动靶要提前枪”“腰射贴脸比开镜快”，让你玩一局学一局，悄悄提升实力。
+            
+            最关键的是，我们不搞虚的！坚持“按约兑现、服务到底”：承诺的保底人头、保底游戏币，只要你正常跟队配合，100%能拿到；要是因为护航员失误没达标，不用你扯皮，直接协商补单，绝不推诿。从你下单那一刻起，专属护航员就会主动找你，确认你玩的服务器（国际服/东南亚服都行）、想玩的模式、具体时间，甚至问你“想苟还是想刚”，全程贴心对接，你啥都不用操心，只管上线爽玩！
+        </div>
+
+        <div class="pricing">
+            <h2>透明定价 · 实惠靠谱</h2>
+            <div class="price-card">
+                <h3>地铁模式护航（资源保障）</h3>
+                <p>100米范围护航：全程围着你转，清掉周围敌人，保底拿10万游戏币（定价合理，有保障更有性价比）</p>
+                <p>1000米范围护航：大范围控图清场，把资源都留给你，保底拿20万游戏币（轻松换高级装备，撤离不慌）</p>
+            </div>
+            <div class="price-card">
+                <h3>经典模式护航（战绩保障）</h3>
+                <p>100米范围护航：近距离贴身保护，帮你稳拿人头，保底2杀（新手入门必选，稳赚基础分）</p>
+                <p>1000米范围护航：中远距离控场杀敌，帮你冲战绩，保底3杀（冲分党首选，快速提升段位）</p>
+            </div>
+        </div>
+
+        <div class="business-scope">
+            <h2>业务范围</h2>
+            <p>专注 <strong>PUBG Mobile 全分区服</strong>（国际服、东南亚服、日韩服、北美服等），全模式覆盖，不管你玩啥都能护航：</p>
+            <p>- 地铁逃生模式：重点保你游戏币收益，帮你清剿敌人、安全撤离，满载物资回家；</p>
+            <p>- 经典模式：适配海岛、沙漠、雨林、雪地、艾伦格所有地图，冲分、苟分、练枪全满足；</p>
+            <p>- 娱乐模式：快速派对、狙击特训、战争模式，想爽玩也能安排，主打一个轻松愉快。</p>
+        </div>
+
+        <div class="recommend">
+            <h2>为什么选我们？这4点足够说服你！</h2>
+            <p>1. 【真战神带队】护航员都是<span strong>赛季稳定战神</span>，不是“嘴强王者”，枪法、意识、大局观拉满，啥战局都能应对；</p>
+            <p>2. 【安全又省心】全程用<span strong>游客账户</span>，不登你号、不占你设备，信息不泄露，比其他用你号打的安全10倍；</p>
+            <p>3. 【价格够良心】明码标价无隐藏消费，100米/1000米两档任选，<span strong>同等服务比同行低20%</span>，学生党也能轻松冲；</p>
+            <p>4. 【服务超到位】保底不达标直接补单，专属护航员一对一对接，你的需求随时调，不用等、不用催，体验拉满！</p>
+        </div>
+
+        <div class="contact">
+            <h2>立即预约 · 开启吃鸡之旅</h2>
+            <p>所有业务都在快手平台对接，正规渠道，安全有保障！</p>
+            <p>快手搜索：<span strong>ks小文天花板</span></p>
+            <p>私信发送“护航”，马上能咨询最新档期、价格细节，下单就享优先安排，当天预约当天就能上号爽玩！</p>
+        </div>
+    </div>
+</body>
+</html>
